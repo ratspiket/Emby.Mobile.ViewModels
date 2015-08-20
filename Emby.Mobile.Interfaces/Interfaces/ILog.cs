@@ -1,6 +1,6 @@
 using System;
 
-namespace Emby.Mobile.Interfaces
+namespace Emby.Mobile.Core.Interfaces
 {
     public interface ILog
     {
